@@ -2,6 +2,8 @@
 
 Morse code is a character encoding scheme that encodes text characters as standardized sequences of dots and dashes. It was created by Samuel Morse, the inventor of the telegraph.
 
+![Morse Code Key](http://www.codebug.org.uk/assets/steps/540/image_1.png)
+
 For the purpose of this challenge, Morse code represents every letter as a sequence of 1-4 characters, each of which is either . (dot) or - (dash). Normally, you would indicate where one letter ends and the next begins with a space between the letters' codes. For example, the code for SOS would be represented as follows:
 
 ```
